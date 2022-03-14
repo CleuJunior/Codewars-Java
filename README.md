@@ -1,11 +1,11 @@
 #  Codewars Java Challenge
 
 ### O que é o Codewars?
-Codewars é uma comunidade de desenvolvedores, com foco em treinamentos para melhorar habilidades de desenvolvimento com
-desafios de programação.
+_Codewars é uma comunidade de desenvolvedores, com foco em treinamentos para melhorar habilidades de desenvolvimento com
+desafios de programação_.
 
 ### Como funciona o sistema de Kyu
-Quanto menor o número do Kyu mais difíceis os desafios vão se tornando.
+_Quanto menor o número do Kyu mais difíceis os desafios vão se tornando._
 
 - 7kyu, 8kyu - Beginner
 - 5kyu, 6kyu - Novice
