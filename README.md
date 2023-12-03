@@ -19,7 +19,7 @@ _Quanto menor o número do Kyu mais difíceis os desafios vão se tornando._
 
 | Kyu | Title                                                                                                    |
 |-----|----------------------------------------------------------------------------------------------------------|
-| 8   | [Abbreviate a Two Word Name](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)                     |
+| 8   | [Abbreviate a Two Word Name](src/main/java/com/br/javawars/kyu_8/abbreviate)                             |
 | 8   | [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)                          | 
 | 8   | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)                | 
 | 8   | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)         |
@@ -60,6 +60,7 @@ _Quanto menor o número do Kyu mais difíceis os desafios vão se tornando._
 | 7   | [Longest vowel chain](https://www.codewars.com/kata/59c5f4e9d751df43cf000035)                            | 
 | 7   | [Quicksum](https://www.codewars.com/kata/569924899aa8541eb200003f)                                       | 
 | 7   | [Nickname Generator](src/main/java/com/br/javawars/kyu_7/nicknamegenerator)                              |
+| 7   | [Nickname Generator](src/main/java/com/br/javawars/kyu_7/smallestvalueofanarray)                         |
 | 6   | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)                             | 
 | 6   | [How many pages in a book?](https://www.codewars.com/kata/622de76d28bf330057cd6af8)                      | 
 | 6   | [Music Fun #1 - Major Scale](https://www.codewars.com/kata/5c1b25bc85042749e9000043)                     | 
