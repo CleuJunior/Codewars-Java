@@ -68,4 +68,5 @@ _Quanto menor o número do Kyu mais difíceis os desafios vão se tornando._
 | 6   | [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648)                              | 
 | 6   | [Prize Draw](https://www.codewars.com/kata/5616868c81a0f281e500005c)                                     |
 | 6   | [Find the odd int](src/main/java/com/br/javawars/kyu_6/oddint)                                           |
+| 6   | [String array duplicates](src/main/java/com/br/javawars/kyu_6/stringarrayduplicates)                     |
 | 5   | [Paginating a huge book](https://www.codewars.com/kata/55905b7597175ffc1a00005a)                         |
