@@ -61,6 +61,7 @@ _Quanto menor o número do Kyu mais difíceis os desafios vão se tornando._
 | 7   | [Quicksum](https://www.codewars.com/kata/569924899aa8541eb200003f)                                       | 
 | 7   | [Nickname Generator](src/main/java/com/br/javawars/kyu_7/nicknamegenerator)                              |
 | 7   | [Nickname Generator](src/main/java/com/br/javawars/kyu_7/smallestvalueofanarray)                         |
+| 7   | [Functional Addition](src/main/java/com/br/javawars/kyu_7/functionaladdition)                            |
 | 6   | [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)                             | 
 | 6   | [How many pages in a book?](https://www.codewars.com/kata/622de76d28bf330057cd6af8)                      | 
 | 6   | [Music Fun #1 - Major Scale](https://www.codewars.com/kata/5c1b25bc85042749e9000043)                     | 
