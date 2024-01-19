@@ -35,7 +35,7 @@ _Quanto menor o número do Kyu mais difíceis os desafios vão se tornando._
 | 8   | [Grasshopper - Array Mean](https://www.codewars.com/kata/55d277882e139d0b6000005d)                       | 
 | 8   | [Leonardo Dicaprio and Oscars](https://www.codewars.com/kata/56d49587df52101de70011e4)                   | 
 | 8   | [Exclusive "or" (xor) Logical Operator](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)          |
-| 7   | [Exclusive "or" (xor) Logical Operator](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)          | 
+| 7   | [Split In Parts](src/main/java/com/br/javawars/kyu_7/splitinparts)                                       | 
 | 7   | [Sum of Cubes](src/main/java/com/br/javawars/kyu_7/sumofcubes)                                           | 
 | 7   | [Simple Fun #2: Circle of Numbers](src/main/java/com/br/javawars/kyu_7/simplefun2)                       | 
 | 7   | [Find sum of top-left to bottom-right diagonals](https://www.codewars.com/kata/5545f109004975ea66000086) |
