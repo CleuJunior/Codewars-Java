@@ -20,6 +20,7 @@ _Quanto menor o número do Kyu mais difíceis os desafios vão se tornando._
 | Kyu | Title                                                                                                    |
 |-----|----------------------------------------------------------------------------------------------------------|
 | 8   | [Abbreviate a Two Word Name](src/main/java/com/br/javawars/kyu_8/abbreviate)                             |
+| 8   | [Count by X](src/main/java/com/br/javawars/kyu_8/countbyx)                                               |
 | 8   | [DNA to RNA Conversion](https://www.codewars.com/kata/5556282156230d0e5e000089)                          | 
 | 8   | [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)                | 
 | 8   | [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2)         |
