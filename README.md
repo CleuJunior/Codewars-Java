@@ -37,6 +37,7 @@ _Quanto menor o número do Kyu mais difíceis os desafios vão se tornando._
 | 8   | [Exclusive "or" (xor) Logical Operator](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)          |
 | 7   | [Exclusive "or" (xor) Logical Operator](https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c)          | 
 | 7   | [Sum of Cubes](src/main/java/com/br/javawars/kyu_7/sumofcubes)                                           | 
+| 7   | [Simple Fun #2: Circle of Numbers](src/main/java/com/br/javawars/kyu_7/simplefun2)                       | 
 | 7   | [Find sum of top-left to bottom-right diagonals](https://www.codewars.com/kata/5545f109004975ea66000086) |
 | 7   | [Small enough? - Beginner](https://www.codewars.com/kata/57cc981a58da9e302a000214)                       | 
 | 7   | [Dot Calculator](https://www.codewars.com/kata/6071ef9cbe6ec400228d9531)                                 | 
